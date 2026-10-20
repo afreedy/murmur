@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.afreed.codexluna</string>
+<key>CFBundleName</key><string>Murmur</string>
+<key>CFBundleDisplayName</key><string>Murmur</string>
+<key>CFBundleExecutable</key><string>CodexLuna</string>
+<key>CFBundleIconFile</key><string>AppIcon</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.6.4</string>
+<key>CFBundleVersion</key><string>20</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>LSUIElement</key><false/>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSMicrophoneUsageDescription</key><string>Murmur records when you hold Fn, press Fn + Space, or click Dictate, and transcribes your voice locally with Whisper.</string>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+</dict></plist>
